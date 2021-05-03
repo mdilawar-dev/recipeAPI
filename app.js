@@ -41,7 +41,7 @@ mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true, useCr
    * @swagger
    * /findall:
    *   get:
-   *     summary: get all recipe from database
+   *     summary: get all recipes from database
    *     description: Get all recipes
    *     responses:
    *       200:
